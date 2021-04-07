@@ -1,2 +1,2 @@
 # webscrapping
-webscrapping of the 'trump lies' and 'celio' sites
+webscrapping of some sites
